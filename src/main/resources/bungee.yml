@@ -1,0 +1,4 @@
+name: kotlin-lib
+version: $version
+main: me.xhayper.kotlin_lib.BungeeCordEntrypoint
+author: xhayper

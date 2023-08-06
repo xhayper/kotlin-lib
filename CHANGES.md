@@ -1,0 +1,4 @@
+- Removal of all mention of fabric-language-kotlin
+- Removal of FabricMC libraries / dependencies
+- Use Spigot + Bungeecord + Velocity API
+- Add support for Spigot, Bungeecord and Velocity

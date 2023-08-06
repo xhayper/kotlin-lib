@@ -1,0 +1,6 @@
+name: kotlin-lib
+version: $version
+main: me.xhayper.kotlin_lib.SpigotEntrypoint
+author: xhayper
+load: startup
+folia-supported: true

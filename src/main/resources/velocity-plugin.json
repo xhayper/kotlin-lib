@@ -1,0 +1,6 @@
+{
+  "id": "kotlin",
+  "name": "Kotlin",
+  "version": "$version",
+  "main": "me.xhayper.kotlin_lib.VelocityEntrypoint"
+}
