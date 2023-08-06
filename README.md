@@ -1,6 +1,6 @@
 # Kotlin-Lib
 
-Fork of [fabric-language-kotlin](https://github.com/FabricMC/fabric-language-kotlin/tree/update-versions) to Spigot / Folia / Bungeecord / Velocity
+Fork of [fabric-language-kotlin](https://github.com/FabricMC/fabric-language-kotlin) to Spigot / Folia / Bungeecord / Velocity
 
 Changes can be read [here](CHANGES.md)
 
