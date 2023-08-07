@@ -78,7 +78,7 @@ dependencies {
         println("Contains missing library version, run updateLibraryVersions task!")
     } else {
         libraries.forEach {
-            shadow includeAndExpose("${it}:${libVersions[it]}")
+            includeAndExpose("${it}:${libVersions[it]}")
         }
     }
 }
