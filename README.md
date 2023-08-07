@@ -2,11 +2,13 @@
 
 Fork of [fabric-language-kotlin](https://github.com/FabricMC/fabric-language-kotlin) to Spigot / Folia / Bungeecord / Velocity
 
+For Kotlin version below 1.9.0, please check [kotlin-stdlib](https://www.spigotmc.org/resources/kotlin-stdlib.80808/) out!
+
 Changes can be read [here](CHANGES.md)
 
 ## Usage
 
-Add `kotlin-lib` to your depend list
+Add `kotlin-lib` to your depend on list
 
 ## Bundled libraries
 
