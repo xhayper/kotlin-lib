@@ -13,8 +13,8 @@ Add `kotlin-lib` to your depend on list
 ## Bundled libraries
 
 `org.jetbrains.kotlin` namespace:
-- **`kotlin-stdlib`** 1.9.10 [Docs](https://kotlinlang.org/docs/home.html), [API docs](https://kotlinlang.org/api/latest/jvm/stdlib/), [GitHub](https://github.com/JetBrains/kotlin)
-- **`kotlin-reflect`** 1.9.10 [Docs](https://kotlinlang.org/docs/reflection.html), [API docs](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.reflect/)
+- **`kotlin-stdlib`** 1.9.20 [Docs](https://kotlinlang.org/docs/home.html), [API docs](https://kotlinlang.org/api/latest/jvm/stdlib/), [GitHub](https://github.com/JetBrains/kotlin)
+- **`kotlin-reflect`** 1.9.20 [Docs](https://kotlinlang.org/docs/reflection.html), [API docs](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.reflect/)
 
 `org.jetbrains.kotlinx` namespace:
 - **`kotlinx-coroutines-core`** 1.7.3 [Guide](https://kotlinlang.org/docs/coroutines-guide.html), [API docs](https://kotlin.github.io/kotlinx.coroutines/), [GitHub](https://github.com/Kotlin/kotlinx.coroutines)
