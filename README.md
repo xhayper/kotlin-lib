@@ -22,7 +22,7 @@ Add `kotlin-lib` to your depend on list
 - **`kotlinx-serialization-core`** 1.7.1 [Guide](https://github.com/Kotlin/kotlinx.serialization/blob/master/docs/serialization-guide.md), [API docs](https://kotlin.github.io/kotlinx.serialization/kotlinx-serialization-core/index.html), [GitHub](https://github.com/Kotlin/kotlinx.serialization)
 - **`kotlinx-serialization-json`** 1.7.1 [API docs](https://kotlin.github.io/kotlinx.serialization/kotlinx-serialization-json/index.html)
 - **`kotlinx-serialization-cbor`** 1.7.1 [API docs](https://kotlin.github.io/kotlinx.serialization/kotlinx-serialization-cbor/index.html)
-- **`atomicfu`** 0.24.0 [GitHub](https://github.com/Kotlin/kotlinx.atomicfu)
+- **`atomicfu`** 0.25.0 [GitHub](https://github.com/Kotlin/kotlinx.atomicfu)
 - **`kotlinx-datetime`** 0.6.0 [GitHub](https://github.com/Kotlin/kotlinx-datetime)
 
 ## Updating README
